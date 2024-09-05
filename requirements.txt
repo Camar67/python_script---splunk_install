@@ -1,9 +1,3 @@
 bs4
 wget
-os
 requests
-glob
-getpass
-subprocess
-time
-re
